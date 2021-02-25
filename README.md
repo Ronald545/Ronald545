@@ -38,7 +38,7 @@
 - mySQL [*uploading....*]
 
 # Qualifications 
-> #### Freecodecamp Responsice Web Design
+> #### Freecodecamp Responsive Web Design
 > https://freecodecamp.org/certification/rollex555/responsive-web-design
 
 <br /> 
