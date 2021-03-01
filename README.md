@@ -1,4 +1,4 @@
-<h1 style="font-size: 4em; font-family: sans-serif; font-weight: 100;"> Ronald Pang X</h1>
+<h1 align="center"> Ronald Pang X</h1>
 
 ## Junior Web Developer
 - HTML ✅
