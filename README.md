@@ -1,5 +1,9 @@
 <h1 align="center"> Ronald Pang X</h1>
 
+## Data Engineer 
+
+Experienced with: Google Looker Studio, Google Big Query, MySQL, DBT, Redash
+
 ## Junior Web Developer
 - HTML ✅
 - CSS ✅
